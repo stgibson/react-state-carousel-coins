@@ -1,0 +1,10 @@
+.CoinFlip {
+  display: flex;
+  flex-direction: column;
+}
+
+.CoinFlip-button {
+  width: 90px;
+  /* Learned how to center button with fixed width at https://stackoverflow.com/questions/19764284/how-to-center-a-fixed-width-button-horizontally */
+  margin: 0 auto;
+}
